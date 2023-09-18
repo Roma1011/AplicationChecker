@@ -86,11 +86,11 @@ public class Program
      
      private bool SenToEmail(string appname)
      {
-          var reciver = "rkekua@seu.edu.ge";
+          var reciver = "mi";
           var subject = "Alert Application";
           var body = $"Application{appname} is stopped";
-          var username = "romski48@gmail.com";
-          var pw = "wleoteltihwtnnwg";
+          var username = "noreply3@mygps.ge";
+          var pw = "sgpzhupqepdtcpob";
           MailMessage mail = new MailMessage();
           mail.From = new MailAddress(username);
           mail.Sender = new MailAddress(username);
