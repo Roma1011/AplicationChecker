@@ -15,8 +15,9 @@ public class Program
           List<string> fullPaths = new();
           List<(string, bool)> applicationResult = new();
           List<Task> Tasks = new List<Task>();
-          fullPaths.Add("C:\\Program Files\\TeamViewer\\TeamViewer.exe");
-          fullPaths.Add("C:\\Users\\romsk\\AppData\\Local\\Discord\\app-1.0.9017\\Discord.exe");
+          fullPaths.Add("C:\\Users\\Administrator\\Desktop\\lamp\\publish\\NewDevLcpListener.exe");
+          fullPaths.Add("C:\\Users\\Administrator\\Desktop\\lamp\\publish13001\\NewDevLcpListener.exe");
+          fullPaths.Add("C:\\Users\\Administrator\\Desktop\\lampBack\\NewDevLcpBackEnd.exe");
           
           Task.Run(() =>
           {
@@ -56,6 +57,7 @@ public class Program
 
                Thread.Sleep(50000);
           }
+
      }
      
      private  bool ProgramIsRunning(string FullPath)
@@ -86,7 +88,7 @@ public class Program
      
      private bool SenToEmail(string appname)
      {
-          var reciver = "mi";
+          var reciver = "romski48@gmail.com";
           var subject = "Alert Application";
           var body = $"Application{appname} is stopped";
           var username = "noreply3@mygps.ge";
@@ -107,6 +109,7 @@ public class Program
           smtp.EnableSsl = true;
             
           smtp.Send(mail);
+          Console.WriteLine("Message is Sent");
           return true;
      }
 }

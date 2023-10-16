@@ -1,0 +1,5 @@
+C:\Dot.net\AplicationChecker\AplicationChecker\bin\Release\net6.0\publish\AplicationChecker.exe
+C:\Dot.net\AplicationChecker\AplicationChecker\bin\Release\net6.0\publish\AplicationChecker.dll
+C:\Dot.net\AplicationChecker\AplicationChecker\bin\Release\net6.0\publish\AplicationChecker.deps.json
+C:\Dot.net\AplicationChecker\AplicationChecker\bin\Release\net6.0\publish\AplicationChecker.runtimeconfig.json
+C:\Dot.net\AplicationChecker\AplicationChecker\bin\Release\net6.0\publish\AplicationChecker.pdb

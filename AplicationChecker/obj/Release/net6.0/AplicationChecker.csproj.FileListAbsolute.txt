@@ -1,0 +1,15 @@
+C:\Dot.net\AplicationChecker\AplicationChecker\bin\Release\net6.0\AplicationChecker.exe
+C:\Dot.net\AplicationChecker\AplicationChecker\bin\Release\net6.0\AplicationChecker.deps.json
+C:\Dot.net\AplicationChecker\AplicationChecker\bin\Release\net6.0\AplicationChecker.runtimeconfig.json
+C:\Dot.net\AplicationChecker\AplicationChecker\bin\Release\net6.0\AplicationChecker.dll
+C:\Dot.net\AplicationChecker\AplicationChecker\bin\Release\net6.0\AplicationChecker.pdb
+C:\Dot.net\AplicationChecker\AplicationChecker\obj\Release\net6.0\AplicationChecker.csproj.AssemblyReference.cache
+C:\Dot.net\AplicationChecker\AplicationChecker\obj\Release\net6.0\AplicationChecker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dot.net\AplicationChecker\AplicationChecker\obj\Release\net6.0\AplicationChecker.AssemblyInfoInputs.cache
+C:\Dot.net\AplicationChecker\AplicationChecker\obj\Release\net6.0\AplicationChecker.AssemblyInfo.cs
+C:\Dot.net\AplicationChecker\AplicationChecker\obj\Release\net6.0\AplicationChecker.csproj.CoreCompileInputs.cache
+C:\Dot.net\AplicationChecker\AplicationChecker\obj\Release\net6.0\AplicationChecker.dll
+C:\Dot.net\AplicationChecker\AplicationChecker\obj\Release\net6.0\refint\AplicationChecker.dll
+C:\Dot.net\AplicationChecker\AplicationChecker\obj\Release\net6.0\AplicationChecker.pdb
+C:\Dot.net\AplicationChecker\AplicationChecker\obj\Release\net6.0\AplicationChecker.genruntimeconfig.cache
+C:\Dot.net\AplicationChecker\AplicationChecker\obj\Release\net6.0\ref\AplicationChecker.dll
